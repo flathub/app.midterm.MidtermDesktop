@@ -2,7 +2,7 @@
 <component type="desktop">
   <id>app.midterm.MidtermDesktop</id>
   <launchable type="desktop-id">app.midterm.MidtermDesktop.desktop</launchable>
-  <name>Midterm: Notes & Flashcards</name>
+  <name>Midterm: Notes &amp; Flashcards</name>
   <developer_name>Minh Loi</developer_name>
   <summary>A free note-taking app for self-learning</summary>
   <metadata_license>CC0-1.0</metadata_license>
@@ -31,6 +31,7 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="0.9.3" date="2021-02-11"/>
     <release version="0.9.2" date="2021-02-08"/>
   </releases>
   <content_rating type="oars-1.1" />
