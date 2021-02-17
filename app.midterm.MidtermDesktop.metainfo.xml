@@ -8,11 +8,12 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>LicenseRef-proprietary</project_license>
   <url type="homepage">https://midterm.app</url>
+  <url type="help">https://reddit.com/r/MidtermApp</url>
   <description>
-    <p>Midterm is a note-taking app for you to write notes and study them in one place. It includes cloze deletion and image occlusion (inspired from Anki) to help you memorize information better.</p>
+    <p>Midterm is a note-taking app for you to write notes and study them in one place. You can write interactive notes using image occlusion and cloze deletion tools (inspired from Anki).</p>
     <p>Features:</p>
     <ul>
-      <li>Write interactive notes for reviewing (using image occlusion, cloze deletion, etc.)</li>
+      <li>Write powerful notes for studying.</li>
       <li>Keep track of difficult notes to review before exams.</li>
       <li>Collaborate and study with your friends.</li>
       <li>Organize notes with nested folders.</li>
