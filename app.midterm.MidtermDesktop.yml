@@ -32,8 +32,8 @@ modules:
       - install -D midterm /app/bin/
     sources:
       - type: file
-        url: https://midterm-desktop-builds.s3.us-east-2.amazonaws.com/Midterm-0.9.4.deb
-        sha512: 749c3f90afae2461090868cc7eba21ed5f669de4c1bcd9d4eab67dc999448380796b51493d8dd9c49afa4f9317bebda2d1f7abbec271631ff2643a76f2684683
+        url: https://midterm-desktop-builds.s3.us-east-2.amazonaws.com/Midterm-1.1.0.deb
+        sha512: 7ac4b2551a1d3885ee1b209cb4d2986459eefc817ab18272390c04e7f451c92e9f9c5b351f4702b1e7b9de9ba13e0ecc58d59421809b348c01a283665ad0312a
         dest-filename: midterm.deb
       - type: file
         path: app.midterm.MidtermDesktop.metainfo.xml

@@ -4,20 +4,22 @@
   <launchable type="desktop-id">app.midterm.MidtermDesktop.desktop</launchable>
   <name>Midterm: Notes &amp; Flashcards</name>
   <developer_name>Minh Loi</developer_name>
-  <summary>A free note-taking app for self-learning</summary>
+  <summary>A free note-taking app for studying.</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>LicenseRef-proprietary</project_license>
   <url type="homepage">https://midterm.app</url>
   <url type="help">https://reddit.com/r/MidtermApp</url>
   <description>
-    <p>Midterm is a note-taking app for you to write notes and study them in one place. You can write interactive notes using image occlusion and cloze deletion tools (inspired from Anki).</p>
+    <p>Midterm is a note-taking with study tools to help you memorize your materials easier. It allows you to write notes, create quizzes and make interactive flashcards.</p>
     <p>Features:</p>
     <ul>
-      <li>Write powerful notes for studying.</li>
-      <li>Keep track of difficult notes to review before exams.</li>
+      <li>Write notes with quizzes for studying (cloze deletion, image occlusion inspired from Anki).</li>
+      <li>Sync notes with your phone and/or tablet.</li>
+      <li>Powerful visual editor.</li>
+      <li>Keep track of notes to study before exams.</li>
       <li>Collaborate and study with your friends.</li>
-      <li>Organize notes with nested folders.</li>
-      <li>Study offline.</li>
+      <li>Support nested folders.</li>
+      <li>Study offline (offline accessible).</li>
       <li>and many more.</li>
     </ul>
   </description>
@@ -32,6 +34,7 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="1.1.0" date="2021-03-09"/>
     <release version="0.9.4" date="2021-02-14"/>
     <release version="0.9.3" date="2021-02-11"/>
     <release version="0.9.2" date="2021-02-08"/>
