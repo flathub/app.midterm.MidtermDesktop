@@ -4,7 +4,7 @@
   <launchable type="desktop-id">app.midterm.MidtermDesktop.desktop</launchable>
   <name>Midterm: Notes &amp; Flashcards</name>
   <developer_name>Minh Loi</developer_name>
-  <summary>A free note-taking app for studying.</summary>
+  <summary>A note-taking app for studying.</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>LicenseRef-proprietary</project_license>
   <url type="homepage">https://midterm.app</url>
@@ -15,6 +15,7 @@
     <ul>
       <li>Write notes with quizzes for studying (cloze deletion, image occlusion inspired from Anki).</li>
       <li>Sync notes with your phone and/or tablet.</li>
+      <li>Dark mode.</li>
       <li>Powerful visual editor.</li>
       <li>Keep track of notes to study before exams.</li>
       <li>Collaborate and study with your friends.</li>
@@ -34,6 +35,7 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="1.2.0" date="2021-03-26"/>
     <release version="1.1.2" date="2021-03-13"/>
     <release version="1.1.1" date="2021-03-10"/>
     <release version="1.1.0" date="2021-03-09"/>
