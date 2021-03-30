@@ -4,23 +4,23 @@
   <launchable type="desktop-id">app.midterm.MidtermDesktop.desktop</launchable>
   <name>Midterm: Notes &amp; Flashcards</name>
   <developer_name>Minh Loi</developer_name>
-  <summary>A note-taking app for studying.</summary>
+  <summary>A free note-taking app for studying.</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>LicenseRef-proprietary</project_license>
   <url type="homepage">https://midterm.app</url>
   <url type="help">https://reddit.com/r/MidtermApp</url>
   <description>
-    <p>Midterm is a note-taking with study tools to help you memorize your materials easier. It allows you to write notes, create quizzes and make interactive flashcards.</p>
+    <p>Midterm for Linux is completely free to use. It is a note-taking app with study tools to help you study better. You can use it to prepare for exams.</p>
     <p>Features:</p>
     <ul>
       <li>Write notes with quizzes for studying (cloze deletion, image occlusion inspired from Anki).</li>
       <li>Sync notes with your phone and/or tablet.</li>
+      <li>Study offline (offline accessible).</li>
       <li>Dark mode.</li>
       <li>Powerful visual editor.</li>
       <li>Keep track of notes to study before exams.</li>
       <li>Collaborate and study with your friends.</li>
       <li>Support nested folders.</li>
-      <li>Study offline (offline accessible).</li>
       <li>and many more.</li>
     </ul>
   </description>
