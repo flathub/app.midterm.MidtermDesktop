@@ -35,13 +35,14 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="1.2.0" date="2021-03-26"/>
-    <release version="1.1.2" date="2021-03-13"/>
-    <release version="1.1.1" date="2021-03-10"/>
-    <release version="1.1.0" date="2021-03-09"/>
-    <release version="0.9.4" date="2021-02-14"/>
-    <release version="0.9.3" date="2021-02-11"/>
-    <release version="0.9.2" date="2021-02-08"/>
+    <release version="1.2.2" date="2021-04-05" />
+    <release version="1.2.0" date="2021-03-26" />
+    <release version="1.1.2" date="2021-03-13" />
+    <release version="1.1.1" date="2021-03-10" />
+    <release version="1.1.0" date="2021-03-09" />
+    <release version="0.9.4" date="2021-02-14" />
+    <release version="0.9.3" date="2021-02-11" />
+    <release version="0.9.2" date="2021-02-08" />
   </releases>
   <content_rating type="oars-1.1" />
 </component>
